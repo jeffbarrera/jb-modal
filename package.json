@@ -1,0 +1,8 @@
+{
+  "name": "@jeffbarrera/jbmodal",
+  "version": "1.0.0",
+  "description": "Lightweight, vanilla-JS plugin to handle modal interactions",
+  "license": "MIT",
+  "repository": "jeffbarrera/jb-modal",
+  "main": "jbModal.js"
+}
